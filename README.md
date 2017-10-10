@@ -9,4 +9,4 @@ These note books are all trained on a MacBook Pro (Retina, 13-inch, Late 2013) w
 
 Notebook|Epochs|Train Time (Secs) |Val Acc|Test Acc| Comment
 --------|------|------------------|-------|--------|---------
-MNIST\_TF\_Softmax\_Tutorial|2|1.2224|0.9244|0.9225|Tensor Flow and Softmax Logistic Regression
+MNIST\_TF\_Softmax\_Tutorial|5|3.2076|0.9240|0.9233|Tensor Flow and Softmax Logistic Regression

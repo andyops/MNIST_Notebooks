@@ -7,6 +7,6 @@ As a reference, the first couple of notebooks implement the TensorFlow tutorials
 
 These note books are all trained on a MacBook Pro (Retina, 13-inch, Late 2013) with a 2.6 GHz Intel Core i5 and 8 GB 1600 MHz DDR3 and no GPU acceleration.
 
-Notebook|Epochs|Train Time (Secs) |Val Acc|Test Acc| Comment
---------|------|------------------|-------|--------|---------
-MNIST\_TF\_Softmax\_Tutorial|5|3.2076|0.9240|0.9233|Tensor Flow and Softmax Logistic Regression
+Notebook|Epochs|Train Time (Secs) |Train Acc|Val Acc| Test Acc| Comment
+--------|------|------------------|-------|--------|------|---------
+MNIST\_TF\_Softmax\_Tutorial|5|3.1157|0.9248|0.9232|0.9246|Tensor Flow and Softmax Logistic Regression
